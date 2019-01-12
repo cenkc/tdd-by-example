@@ -23,6 +23,11 @@
             <name>John Thompson</name>
             <email>john@springframework.guru</email>
         </developer>
+        <developer>
+            <id>cenkc</id>
+            <name>Cenk Canarslan</name>
+            <email>cenk.canarslan@gmail.com</email>
+        </developer>
     </developers>
 
     <inceptionYear>2018</inceptionYear>
